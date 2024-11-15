@@ -11,7 +11,7 @@ rv-brand = "ReVanced eXtended"
 
 [YouTube]
 build-mode = "both"                                                   
-excluded-patches = ""                                                 
+excluded-patches = "'Custom branding icon for YouTube' 'Custom branding name for YouTube' 'Enable debug logging'"                                              
 included-patches = ""                                                 
 version = "auto"                                                      
 exclusive-patches = false                                             
@@ -21,7 +21,7 @@ module-prop-name = "yt-rvx"
 [Music]
 build-mode = "both"
 app-name = "YouTube-Music"
-excluded-patches = ""
+excluded-patches = "'Custom branding icon for YouTube Music' 'Custom branding name for YouTube Music'"
 included-patches = ""
 version = "auto"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music/"
